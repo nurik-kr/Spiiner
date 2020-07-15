@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomWorkSpiiner</string>
+    <string-array name="Cities">
+        <item>Bishkek</item>
+        <item>Tokmok</item>
+        <item>New-York</item>
+        <item>Seul</item>
+        <item>Real-Madrid</item>
+        <item>Barselona</item>
+        <item>Kemin</item>
+        <item>Kara_Balta</item>
+        <item>Almaty</item>
+        <item>Astana</item>
+    </string-array>
+</resources>
